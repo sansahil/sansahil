@@ -19,5 +19,5 @@
 
 ## My Project
 - [ML Project](https://github.com/sansahil/ML-Projects)
-- [Data Analysis Project](https://github.com/sansahil/PortfolioProjects)
-- [Python Project](https://github.com/sansahil/python-project)
+- [Data Analysis Projects](https://github.com/sansahil/PortfolioProjects)
+- [Collection Of Mini Python Projects](https://github.com/sansahil/python-project)
